@@ -23,8 +23,6 @@ html {
 }
 
 /* 링크 스타일 */
-a {
-  color: inherit;
   text-decoration: none;
 }
 
